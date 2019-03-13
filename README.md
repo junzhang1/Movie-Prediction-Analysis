@@ -5,3 +5,5 @@ We used supervised learning (Decision Tree, Neural Network, Logistic Regression)
 2. Based on previous ratings, can we recommend a movie? 
 3. Based on the movie genres, can we recommend certain genre?
 4. What are the similarities between people that watch certain kind of movie? Can we recommend movies based on this similarities?
+
+We did data pre-processing using Python, then we used SAS to build models and made conclusions.
